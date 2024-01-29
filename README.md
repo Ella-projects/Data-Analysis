@@ -36,18 +36,18 @@
 
 
 
-- Retail Pricing Analytics Dashboard: https://public.tableau.com/app/profile/priyankajhatheanalyst/viz/RetailPriceAnalyticsDashboard/RetailPricingAnalytics#2
-
+- Retail Pricing Analytics Dashboard:
+- 
 ![Retail Price Analytics](visuals/RetailPricingAnalytics.png)
 
 
-- E-commerce Sales Dashboard: https://public.tableau.com/app/profile/priyankajhatheanalyst/viz/eCommerceSales_16310934566250/ExploratoryVisualAnalysis
-
+- E-commerce Sales Dashboard:
+- 
 ![E-commerce Sales](visuals/E-commerceRetail.png)
 
 
-- Sales SuperStore Deep Data Analysis (5 Dashboards): https://public.tableau.com/app/profile/priyankajhatheanalyst/viz/SuperStoreDataset5Dashboards/1KPIDashboard 
-      
+- Sales SuperStore Deep Data Analysis (5 Dashboards):
+  
       1 KPI Dashboard
 
 ![KPI Dashboard](visuals/KPIDashboard.png)
